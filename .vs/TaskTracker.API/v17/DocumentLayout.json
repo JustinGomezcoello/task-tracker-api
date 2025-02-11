@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24AC5347-1A6A-4FDE-8332-8BF9D8FFBAA7}|TaskTracker.API\\TaskTracker.API.csproj|c:\\users\\cristian.gomezcoello\\downloads\\repositorios clonados\\tasktracker.api\\tasktracker.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{24AC5347-1A6A-4FDE-8332-8BF9D8FFBAA7}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AC5347-1A6A-4FDE-8332-8BF9D8FFBAA7}|TaskTracker.API\\TaskTracker.API.csproj|c:\\users\\cristian.gomezcoello\\downloads\\repositorios clonados\\tasktracker.api\\tasktracker.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AC5347-1A6A-4FDE-8332-8BF9D8FFBAA7}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AC5347-1A6A-4FDE-8332-8BF9D8FFBAA7}|TaskTracker.API\\TaskTracker.API.csproj|c:\\users\\cristian.gomezcoello\\downloads\\repositorios clonados\\tasktracker.api\\tasktracker.api\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AC5347-1A6A-4FDE-8332-8BF9D8FFBAA7}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AC5347-1A6A-4FDE-8332-8BF9D8FFBAA7}|TaskTracker.API\\TaskTracker.API.csproj|c:\\users\\cristian.gomezcoello\\downloads\\repositorios clonados\\tasktracker.api\\tasktracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AC5347-1A6A-4FDE-8332-8BF9D8FFBAA7}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AC5347-1A6A-4FDE-8332-8BF9D8FFBAA7}|TaskTracker.API\\TaskTracker.API.csproj|c:\\users\\cristian.gomezcoello\\downloads\\repositorios clonados\\tasktracker.api\\tasktracker.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AC5347-1A6A-4FDE-8332-8BF9D8FFBAA7}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AC5347-1A6A-4FDE-8332-8BF9D8FFBAA7}|TaskTracker.API\\TaskTracker.API.csproj|c:\\users\\cristian.gomezcoello\\downloads\\repositorios clonados\\tasktracker.api\\tasktracker.api\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AC5347-1A6A-4FDE-8332-8BF9D8FFBAA7}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AC5347-1A6A-4FDE-8332-8BF9D8FFBAA7}|TaskTracker.API\\TaskTracker.API.csproj|c:\\users\\cristian.gomezcoello\\downloads\\repositorios clonados\\tasktracker.api\\tasktracker.api\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AC5347-1A6A-4FDE-8332-8BF9D8FFBAA7}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AC5347-1A6A-4FDE-8332-8BF9D8FFBAA7}|TaskTracker.API\\TaskTracker.API.csproj|c:\\users\\cristian.gomezcoello\\downloads\\repositorios clonados\\tasktracker.api\\tasktracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24AC5347-1A6A-4FDE-8332-8BF9D8FFBAA7}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AC5347-1A6A-4FDE-8332-8BF9D8FFBAA7}|TaskTracker.API\\TaskTracker.API.csproj|c:\\users\\cristian.gomezcoello\\downloads\\repositorios clonados\\tasktracker.api\\tasktracker.api\\migrations\\20250209014034_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AC5347-1A6A-4FDE-8332-8BF9D8FFBAA7}|TaskTracker.API\\TaskTracker.API.csproj|solutionrelative:tasktracker.api\\migrations\\20250209014034_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\TaskTracker.API\\.gitignore",
+              "RelativeDocumentMoniker": "TaskTracker.API\\.gitignore",
+              "ToolTip": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\TaskTracker.API\\.gitignore",
+              "RelativeToolTip": "TaskTracker.API\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-11T22:05:02.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\TaskTracker.API\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "TaskTracker.API\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\TaskTracker.API\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "TaskTracker.API\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T01:47:25.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\TaskTracker.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskTracker.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\TaskTracker.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskTracker.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T01:16:33.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\TaskTracker.API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskTracker.API\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\TaskTracker.API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskTracker.API\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwFIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T00:46:02.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\TaskTracker.API\\Program.cs",
+              "RelativeDocumentMoniker": "TaskTracker.API\\Program.cs",
+              "ToolTip": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\TaskTracker.API\\Program.cs",
+              "RelativeToolTip": "TaskTracker.API\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T00:35:54.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\TaskTracker.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskTracker.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\TaskTracker.API\\appsettings.json",
+              "RelativeToolTip": "TaskTracker.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T00:35:20.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\TaskTracker.API\\Data\\TaskDbContext.cs",
+              "RelativeDocumentMoniker": "TaskTracker.API\\Data\\TaskDbContext.cs",
+              "ToolTip": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\TaskTracker.API\\Data\\TaskDbContext.cs",
+              "RelativeToolTip": "TaskTracker.API\\Data\\TaskDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T00:35:04.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\TaskTracker.API\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskTracker.API\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\TaskTracker.API\\Models\\TaskItem.cs",
+              "RelativeToolTip": "TaskTracker.API\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T00:34:24.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250209014034_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\TaskTracker.API\\Migrations\\20250209014034_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TaskTracker.API\\Migrations\\20250209014034_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\cristian.gomezcoello\\Downloads\\repositorios clonados\\TaskTracker.API\\TaskTracker.API\\Migrations\\20250209014034_InitialCreate.cs",
+              "RelativeToolTip": "TaskTracker.API\\Migrations\\20250209014034_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T01:40:35.176Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

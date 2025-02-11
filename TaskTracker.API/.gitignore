@@ -1,0 +1,11 @@
+﻿# Archivos de Visual Studio que no deben subirse
+.vs/
+*.suo
+*.user
+*.db
+*.cache
+*.vscode
+
+# Archivos de compilación
+bin/
+obj/
