@@ -95,7 +95,7 @@ Want to contribute? Feel free to **fork** this repository and submit a **pull re
 ---
 
 ## 📧 Contact
-For any inquiries or issues, reach out at **justingomezcoello@gmail.com* or open an issue on GitHub.
+For any inquiries or issues, reach out at **justingomezcoello@gmail.com**.
 
 
 
